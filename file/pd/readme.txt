@@ -1,0 +1,1 @@
+ini aadalah folder penyimpaanan file gambar pindah datang
