@@ -5,6 +5,7 @@ pelayanan masyarakat seperti membuat surat keterangan dan manajemen arsip data r
 <p>PHP NATIVE</p>
 <p>  Chart Js, Datatables  </p>
 <p> CSS bootstrap  </p>
+<p> MySql  </p>
 
 
 
@@ -23,11 +24,11 @@ pelayanan masyarakat seperti membuat surat keterangan dan manajemen arsip data r
 <b>  Role   </b>
 
 
-<b>   Admin  </b>
+<p>   Admin  </p>
 
-<b>   Operator  </b>
+<p>   Operator  </p>
 
-<b>   Kades  </b>
+<p>   Kades  </p>
 
 
 
