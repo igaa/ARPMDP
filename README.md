@@ -13,12 +13,12 @@ pelayanan masyarakat seperti membuat surat keterangan dan manajemen arsip data r
 
 
 <b>Fitur :</b>
-
+<p> sorting data menggunakan chart </p>
 <p>  Pelayanan Umum   </p>
 <p>  Pelayanan Pindah Datang   </p>
 <p>  Register KK KTP   </p>
 <p>  Data Pegawai    </p>
-<p>  Data Switch Ref Tahun   </p>
+<p>  Data Switch sorting berdasarkan tahun tersimpan di Ref Tahun   </p>
 
 
 <b>  Role   </b>
